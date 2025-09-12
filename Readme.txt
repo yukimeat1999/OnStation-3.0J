@@ -1,96 +1,94 @@
-//////////  OnStation “ú–{Œê”Å  //////////
+//////////  OnStation æ—¥æœ¬èªžç‰ˆ  //////////
 
 
-yOnStation‚É‚Â‚¢‚Äz
+ã€OnStationã«ã¤ã„ã¦ã€‘
 
-k–{‰ÆƒvƒƒOƒ‰ƒ€l
-’˜ìŒ  (c) 1995-2000-Taco van Ieperen, ƒJƒiƒ_
-OnStation‚ÍA“´ŒA’TŒŸ’†‚ÉŽûW‚µ‚½’²¸ƒf[ƒ^‚ð‹L˜^‚·‚é‚½‚ß‚ÉÝŒv‚³‚ê‚Ä‚¢‚Ü‚·B
-‘ª’è‚µ‚½ƒf[ƒ^‚ð•Û‘¶‚µA˜_—“I‚É®—‚·‚é‚½‚ß‚Ì•ïŠ‡“I‚È‹@”\‚ð”õ‚¦‚Ä‚¢‚Ü‚·B
+ã€”æœ¬å®¶ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã€•
+è‘—ä½œæ¨© (c) 1995-2000-Taco van Ieperen, ã‚«ãƒŠãƒ€
+OnStationã¯ã€æ´žçªŸæŽ¢æ¤œä¸­ã«åŽé›†ã—ãŸèª¿æŸ»ãƒ‡ãƒ¼ã‚¿ã‚’è¨˜éŒ²ã™ã‚‹ãŸã‚ã«è¨­è¨ˆã•ã‚Œã¦ã„ã¾ã™ã€‚
+æ¸¬å®šã—ãŸãƒ‡ãƒ¼ã‚¿ã‚’ä¿å­˜ã—ã€è«–ç†çš„ã«æ•´ç†ã™ã‚‹ãŸã‚ã®åŒ…æ‹¬çš„ãªæ©Ÿèƒ½ã‚’å‚™ãˆã¦ã„ã¾ã™ã€‚
 
-‹­—Í‚È•Û‘¶‚ÆŒŸõ‹@”\‚É‰Á‚¦A
-OnStation‚Í¢ŠEƒgƒbƒvƒNƒ‰ƒX‚Ì•`‰æ‹@”\‚ð”õ‚¦‚Ä‚¢‚Ü‚·B
-“´ŒAƒVƒXƒeƒ€‚Æ‚»‚ÌŽü•Ó‚Ì’n•\‚ðA‚³‚Ü‚´‚Ü‚ÈF‚Æ•`‰æƒIƒvƒVƒ‡ƒ“‚ðŽg‚Á‚Ä•`‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+å¼·åŠ›ãªä¿å­˜ã¨æ¤œç´¢æ©Ÿèƒ½ã«åŠ ãˆã€
+OnStationã¯ä¸–ç•Œãƒˆãƒƒãƒ—ã‚¯ãƒ©ã‚¹ã®æç”»æ©Ÿèƒ½ã‚’å‚™ãˆã¦ã„ã¾ã™ã€‚
+æ´žçªŸã‚·ã‚¹ãƒ†ãƒ ã¨ãã®å‘¨è¾ºã®åœ°è¡¨ã‚’ã€ã•ã¾ã–ã¾ãªè‰²ã¨æç”»ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’ä½¿ã£ã¦æãã“ã¨ãŒã§ãã¾ã™ã€‚
 
-OnStation‚Ìƒ‹[ƒvƒNƒ[ƒWƒƒ[‹@”\‚É‚æ‚èA
-ƒ‹[ƒv (2‚Â‚ÌˆÙ‚È‚é•û–@‚Å“ž’B‚·‚é“´ŒA‚ÌƒZƒNƒVƒ‡ƒ“) ‚ÌƒGƒ‰[‚ðŽ©“®“I‚ÉC³‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-‚±‚ê‚É‚æ‚èAOnStation‚ðŽg—p‚µ‚ÄAŒöŠJ’n}‚Ìo”­“_‚Æ‚µ‚Äƒf[ƒ^‚ðˆ—‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+OnStationã®ãƒ«ãƒ¼ãƒ—ã‚¯ãƒ­ãƒ¼ã‚¸ãƒ£ãƒ¼æ©Ÿèƒ½ã«ã‚ˆã‚Šã€
+ãƒ«ãƒ¼ãƒ— (2ã¤ã®ç•°ãªã‚‹æ–¹æ³•ã§åˆ°é”ã™ã‚‹æ´žçªŸã®ã‚»ã‚¯ã‚·ãƒ§ãƒ³) ã®ã‚¨ãƒ©ãƒ¼ã‚’è‡ªå‹•çš„ã«ä¿®æ­£ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
+ã“ã‚Œã«ã‚ˆã‚Šã€OnStationã‚’ä½¿ç”¨ã—ã¦ã€å…¬é–‹åœ°å›³ã®å‡ºç™ºç‚¹ã¨ã—ã¦ãƒ‡ãƒ¼ã‚¿ã‚’å‡¦ç†ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
 
 URL: https://github.com/ncave/OnStation.git
-(GitHub‚ÌREADME.md‚æ‚èˆø—p)
+(GitHubã®README.mdã‚ˆã‚Šå¼•ç”¨)
 
-k“ú–{Œê”Ål
-ƒAƒvƒŠ–|–ó: 			Œã“¡‘ 		(“Œ‹žƒX‚ØƒŒƒIƒNƒ‰ƒu)
-ƒGƒ‰[C³: 			™–ì—LÆ 	(‰ªŽR‘åŠwƒPƒCƒrƒ“ƒOƒNƒ‰ƒu)
-READMEC³: 			™–ì—LÆ 	(‰ªŽR‘åŠwƒPƒCƒrƒ“ƒOƒNƒ‰ƒu)
-READMEC³: 			¬¼—D‘¾ 	(‰ªŽR‘åŠwƒPƒCƒrƒ“ƒOƒNƒ‰ƒu)
-OnStation “±“ü•û–@.pdf:		¬¼—D‘¾ 	(‰ªŽR‘åŠwƒPƒCƒrƒ“ƒOƒNƒ‰ƒu)
-ƒoƒbƒ`ƒtƒ@ƒCƒ‹ì¬: 			“¡ˆä—YŠî 	(‰ªŽR‘åŠwƒPƒCƒrƒ“ƒOƒNƒ‰ƒu)
-READMEC³: 			“¡ˆä—YŠî 	(‰ªŽR‘åŠwƒPƒCƒrƒ“ƒOƒNƒ‰ƒu)
-OnStation‚Ì“±“ü•û–@.pdf: 	“¡ˆä—YŠî 	(‰ªŽR‘åŠwƒPƒCƒrƒ“ƒOƒNƒ‰ƒu)
+ã€”æ—¥æœ¬èªžç‰ˆã€•
+ã‚¢ãƒ—ãƒªç¿»è¨³:        å¾Œè—¤è¡ 		(æ±äº¬ã‚¹ãºãƒ¬ã‚ªã‚¯ãƒ©ãƒ–)
+ã‚¨ãƒ©ãƒ¼ä¿®æ­£:        å¾Œè—¤è¡ 		(æ±äº¬ã‚¹ãºãƒ¬ã‚ªã‚¯ãƒ©ãƒ–)
+ãƒãƒƒãƒãƒ•ã‚¡ã‚¤ãƒ«ä½œæˆ: è—¤äº•é›„åŸº 	(å²¡å±±å¤§å­¦ã‚±ã‚¤ãƒ“ãƒ³ã‚°ã‚¯ãƒ©ãƒ–)
+READMEä¿®æ­£:        è—¤äº•é›„åŸº 	(å²¡å±±å¤§å­¦ã‚±ã‚¤ãƒ“ãƒ³ã‚°ã‚¯ãƒ©ãƒ–)
+OnStationã®å°Žå…¥æ–¹æ³•.pdf: è—¤äº•é›„åŸº 	(å²¡å±±å¤§å­¦ã‚±ã‚¤ãƒ“ãƒ³ã‚°ã‚¯ãƒ©ãƒ–)
 
-2023”N1ŒŽ10“ú Œ»Ý
+2023å¹´1æœˆ10æ—¥ ç¾åœ¨
 
 
 
-yƒCƒ“ƒXƒg[ƒ‹•û–@z
-@‚±‚±‚Å‚ÍOnStation‚Ì“±“ü•û–@‚É‚Â‚¢‚Ä‰ðà‚·‚éB
+ã€ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ–¹æ³•ã€‘
+ã€€ã“ã“ã§ã¯OnStationã®å°Žå…¥æ–¹æ³•ã«ã¤ã„ã¦è§£èª¬ã™ã‚‹ã€‚
 
-1.ƒfƒXƒNƒgƒbƒv‚ÉzipƒtƒHƒ‹ƒ_‚ð•Û‘¶‚·‚éB
+1.ãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—ã«zipãƒ•ã‚©ãƒ«ãƒ€ã‚’ä¿å­˜ã™ã‚‹ã€‚
 
-2.•Û‘¶‚µ‚½zipƒtƒHƒ‹ƒ_‚ð‘I‘ðŒãA
-@‰EƒNƒŠƒbƒN‚µ‚½‚Æ‚«‚É•\Ž¦‚³‚ê‚éƒVƒ‡[ƒgƒJƒbƒgƒƒjƒ…[‚Ìm‚·‚×‚Ä“WŠJ(T)n‚ðƒNƒŠƒbƒN‚µA
-@•\Ž¦‚³‚ê‚½uˆ³k(ZIP Œ`Ž®)ƒtƒHƒ‹ƒ_[‚Ì“WŠJvƒEƒBƒ“ƒhƒE‚Ìm“WŠJ(E)n‚ð‘I‘ð‚µAzipƒtƒHƒ‹ƒ_‚ð“WŠJ‚·‚éB
+2.ä¿å­˜ã—ãŸzipãƒ•ã‚©ãƒ«ãƒ€ã‚’é¸æŠžå¾Œã€
+ã€€å³ã‚¯ãƒªãƒƒã‚¯ã—ãŸã¨ãã«è¡¨ç¤ºã•ã‚Œã‚‹ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼ã®ï¼»ã™ã¹ã¦å±•é–‹(T)ï¼½ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã€
+ã€€è¡¨ç¤ºã•ã‚ŒãŸã€Œåœ§ç¸®(ZIP å½¢å¼)ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼ã®å±•é–‹ã€ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã®ï¼»å±•é–‹(E)ï¼½ã‚’é¸æŠžã—ã€zipãƒ•ã‚©ãƒ«ãƒ€ã‚’å±•é–‹ã™ã‚‹ã€‚
 
-3.“WŠJ‚µ‚½ "OnStation" ƒtƒHƒ‹ƒ_‚ð "C:\Program Files" ’¼‰º‚ÉƒRƒs[&ƒy[ƒXƒg‚µA
-@‚±‚Ì‚Æ‚«•\Ž¦‚³‚ê‚éu‘ÎÛ‚ÌƒtƒHƒ‹ƒ_[‚Ö‚ÌƒAƒNƒZƒX‚Í‹‘”Û‚³‚ê‚Ü‚µ‚½vƒEƒBƒ“ƒhƒEã‚É‚ ‚ém‘±s(C)n‚ðƒNƒŠƒbƒNB
+3.å±•é–‹ã—ãŸ "OnStation" ãƒ•ã‚©ãƒ«ãƒ€ã‚’ "C:\Program Files" ç›´ä¸‹ã«ã‚³ãƒ”ãƒ¼&ãƒšãƒ¼ã‚¹ãƒˆã—ã€
+ã€€ã“ã®ã¨ãè¡¨ç¤ºã•ã‚Œã‚‹ã€Œå¯¾è±¡ã®ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼ã¸ã®ã‚¢ã‚¯ã‚»ã‚¹ã¯æ‹’å¦ã•ã‚Œã¾ã—ãŸã€ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ä¸Šã«ã‚ã‚‹ï¼»ç¶šè¡Œ(C)ï¼½ã‚’ã‚¯ãƒªãƒƒã‚¯ã€‚
 
-4."C:\Program Files\OnStation" ‚ÌƒfƒBƒŒƒNƒgƒŠ“à‚É‚ ‚é
-@"OnStationSetup.bat" ‚ðƒ_ƒuƒ‹ƒNƒŠƒbƒN‚µ‚ÄƒAƒvƒŠ‚ð‹N“®‚³‚¹‚éB
+4."C:\Program Files\OnStation" ã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªå†…ã«ã‚ã‚‹
+ã€€"OnStationSetup.bat" ã‚’ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯ã—ã¦ã‚¢ãƒ—ãƒªã‚’èµ·å‹•ã•ã›ã‚‹ã€‚
 
-5."OnStationSetup.bat" ‚ª‹N“®‚·‚é‚ÆƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚ª‹N“®‚³‚êA
-@ŽŸ‚Ì1•¶‚ð•\Ž¦‚µAƒEƒBƒ“ƒhƒE‚ªŽ©“®‚Å•Â‚¶‚ç‚ê‚éB
-@‘O€‚Å‹N“®‚µ‚½ "OnStationSetup.bat" ‚ð
-@mŠÇ—ŽÒ‚Æ‚µ‚ÄŽÀs(A)n‚Å‹N“®‚³‚¹‚é‚ÆA‚±‚Ì‰æ–Ê‚Í•\Ž¦‚³‚ê‚È‚¢B
-@ESince it was executed with general privileges, re-execute it with administrator privileges.
+5."OnStationSetup.bat" ãŒèµ·å‹•ã™ã‚‹ã¨ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆãŒèµ·å‹•ã•ã‚Œã€
+ã€€æ¬¡ã®1æ–‡ã‚’è¡¨ç¤ºã—ã€ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ãŒè‡ªå‹•ã§é–‰ã˜ã‚‰ã‚Œã‚‹ã€‚
+ã€€å‰é …ã§èµ·å‹•ã—ãŸ "OnStationSetup.bat" ã‚’
+ã€€ï¼»ç®¡ç†è€…ã¨ã—ã¦å®Ÿè¡Œ(A)ï¼½ã§èµ·å‹•ã•ã›ã‚‹ã¨ã€ã“ã®ç”»é¢ã¯è¡¨ç¤ºã•ã‚Œãªã„ã€‚
+ã€€ãƒ»Since it was executed with general privileges, re-execute it with administrator privileges.
 
-6.‘O€‚ÌƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚É‘±‚¯‚ÄAuRegSvr32vƒEƒBƒ“ƒhƒE‚ª‚Q“x•\Ž¦‚³‚êA
-@‚»‚ê‚¼‚ê‚ÌƒEƒBƒ“ƒhƒEã‚ÉˆÈ‰º‚Ì2•¶‚ª•\Ž¦‚³‚ê‚éB
-@‚»‚ê‚¼‚ê‚ÌƒEƒBƒ“ƒhƒEã‚É‚ ‚émOKn‚ðƒNƒŠƒbƒN‚µAƒEƒBƒ“ƒhƒE‚ð•Â‚¶‚éB
-@EC:\Program Files\OnStation\grid32.ocx ‚Ì DllRegisterServer ‚Í¬Œ÷‚µ‚Ü‚µ‚½B
-@EC:\Program Files\OnStation\pdate32.ocx ‚Ì DllRegisterServer ‚Í¬Œ÷‚µ‚Ü‚µ‚½B
+6.å‰é …ã®ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã«ç¶šã‘ã¦ã€ã€ŒRegSvr32ã€ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ãŒï¼’åº¦è¡¨ç¤ºã•ã‚Œã€
+ã€€ãã‚Œãžã‚Œã®ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ä¸Šã«ä»¥ä¸‹ã®2æ–‡ãŒè¡¨ç¤ºã•ã‚Œã‚‹ã€‚
+ã€€ãã‚Œãžã‚Œã®ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ä¸Šã«ã‚ã‚‹ï¼»OKï¼½ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã€ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’é–‰ã˜ã‚‹ã€‚
+ã€€ãƒ»C:\Program Files\OnStation\grid32.ocx ã® DllRegisterServer ã¯æˆåŠŸã—ã¾ã—ãŸã€‚
+ã€€ãƒ»C:\Program Files\OnStation\pdate32.ocx ã® DllRegisterServer ã¯æˆåŠŸã—ã¾ã—ãŸã€‚
 
-7."OnStation.exe" ‚ð‰EƒNƒŠƒbƒN‚µ‚½‚Æ‚«‚É•\Ž¦‚³‚ê‚éƒVƒ‡[ƒgƒJƒbƒgƒƒjƒ…[‚Ì
-@mƒVƒ‡[ƒgƒJƒbƒg‚Ìì¬(S)n‚ðƒNƒŠƒbƒN‚µA
-@uƒVƒ‡[ƒgƒJƒbƒgvƒEƒBƒ“ƒhƒEã‚Ìm‚Í‚¢(Y)n‚ðƒNƒŠƒbƒN‚·‚é‚±‚Æ‚ÅA
-@ƒfƒXƒNƒgƒbƒvã‚ÉƒVƒ‡[ƒgƒJƒbƒg‚ªì¬‚³‚ê‚éB
+7."OnStation.exe" ã‚’å³ã‚¯ãƒªãƒƒã‚¯ã—ãŸã¨ãã«è¡¨ç¤ºã•ã‚Œã‚‹ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼ã®
+ã€€ï¼»ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã®ä½œæˆ(S)ï¼½ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã€
+ã€€ã€Œã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã€ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ä¸Šã®ï¼»ã¯ã„(Y)ï¼½ã‚’ã‚¯ãƒªãƒƒã‚¯ã™ã‚‹ã“ã¨ã§ã€
+ã€€ãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—ä¸Šã«ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆãŒä½œæˆã•ã‚Œã‚‹ã€‚
 
-8.ì¬‚µ‚½ƒVƒ‡[ƒgƒJƒbƒg‚ðŽg‚Á‚Ä "OnStation.exe" ‚ð‹N“®‚·‚éB
+8.ä½œæˆã—ãŸã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã‚’ä½¿ã£ã¦ "OnStation.exe" ã‚’èµ·å‹•ã™ã‚‹ã€‚
 
-9.‹N“®‚µ‚½ƒAƒvƒŠ‚ÌƒEƒBƒ“ƒhƒEã‚Åƒ}ƒEƒX‚ðƒXƒNƒ[ƒ‹‚·‚é‚ÆƒAƒvƒŠ‚ªI—¹‚·‚éê‡‚ÍA
-@"C:\Program Files\OnStation" ‚ÌƒfƒBƒŒƒNƒgƒŠ“à‚É‚ ‚é
-@‰º‹L‚Ì‚Q‚Â‚ÌDLLƒtƒ@ƒCƒ‹‚ðíœ‚·‚é‚Æ³í‚É“®ì‚·‚éB
-@[Ctrl] ƒL[‚ð‰Ÿ‚µ‚È‚ª‚çA‚Q‚Â‚ÌDLLƒtƒ@ƒCƒ‹‚ðƒ}ƒEƒX‚Å‘I‘ð‚µA
-@‰EƒNƒŠƒbƒN‚·‚é‚Æ•\Ž¦‚³‚ê‚éƒVƒ‡[ƒgƒJƒbƒgƒƒjƒ…[“à‚Ìmíœ(D)n‚ð‘I‘ðB
-@•\Ž¦‚³‚ê‚½uƒtƒ@ƒCƒ‹ ƒAƒNƒZƒX‚Ì‹‘”ÛvƒEƒBƒ“ƒhƒE‚É‚ ‚é
-@u‚·‚×‚Ä‚Ì€–Ú‚É‚±‚ê‚ðŽÀs‚·‚é(A)v‚Éƒ`ƒFƒbƒN‚ð“ü‚êA
-@m‘±s(‚b)n‚ðƒNƒŠƒbƒN‚·‚é‚Æ‚Q‚Â‚ÌDLLƒtƒ@ƒCƒ‹‚ªíœ‚³‚ê‚éB
-@EGLU32.DLL
-@EOPENGL32.DLL
+9.èµ·å‹•ã—ãŸã‚¢ãƒ—ãƒªã®ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ä¸Šã§ãƒžã‚¦ã‚¹ã‚’ã‚¹ã‚¯ãƒ­ãƒ¼ãƒ«ã™ã‚‹ã¨ã‚¢ãƒ—ãƒªãŒçµ‚äº†ã™ã‚‹å ´åˆã¯ã€
+ã€€"C:\Program Files\OnStation" ã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªå†…ã«ã‚ã‚‹
+ã€€ä¸‹è¨˜ã®ï¼’ã¤ã®DLLãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‰Šé™¤ã™ã‚‹ã¨æ­£å¸¸ã«å‹•ä½œã™ã‚‹ã€‚
+ã€€[Ctrl] ã‚­ãƒ¼ã‚’æŠ¼ã—ãªãŒã‚‰ã€ï¼’ã¤ã®DLLãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãƒžã‚¦ã‚¹ã§é¸æŠžã—ã€
+ã€€å³ã‚¯ãƒªãƒƒã‚¯ã™ã‚‹ã¨è¡¨ç¤ºã•ã‚Œã‚‹ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼å†…ã®ï¼»å‰Šé™¤(D)ï¼½ã‚’é¸æŠžã€‚
+ã€€è¡¨ç¤ºã•ã‚ŒãŸã€Œãƒ•ã‚¡ã‚¤ãƒ« ã‚¢ã‚¯ã‚»ã‚¹ã®æ‹’å¦ã€ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã«ã‚ã‚‹
+ã€€ã€Œã™ã¹ã¦ã®é …ç›®ã«ã“ã‚Œã‚’å®Ÿè¡Œã™ã‚‹(A)ã€ã«ãƒã‚§ãƒƒã‚¯ã‚’å…¥ã‚Œã€
+ã€€ï¼»ç¶šè¡Œ(ï¼£)ï¼½ã‚’ã‚¯ãƒªãƒƒã‚¯ã™ã‚‹ã¨ï¼’ã¤ã®DLLãƒ•ã‚¡ã‚¤ãƒ«ãŒå‰Šé™¤ã•ã‚Œã‚‹ã€‚
+ã€€ãƒ»GLU32.DLL
+ã€€ãƒ»OPENGL32.DLL
 
 
 
-yÅVXV€–Úz
+ã€æœ€æ–°æ›´æ–°é …ç›®ã€‘
 
 00/11/23
-E•ûˆÊ“ü—Í‚ÉGLƒRƒ“ƒpƒXŒ`Ž®‚Ì“ü—Í‚ð‹–‰Â‚µ‚½B
-@Œ`Ž®‚Í@NE30@SW15@N@E@S@W@SE30@‚È‚ÇB
-@”’l‚Í0‚©‚ç90‚Ü‚ÅB
-EƒCƒ“ƒXƒg[ƒ‰[‚Ì®”õ
+ãƒ»æ–¹ä½å…¥åŠ›ã«GLã‚³ãƒ³ãƒ‘ã‚¹å½¢å¼ã®å…¥åŠ›ã‚’è¨±å¯ã—ãŸã€‚
+ã€€å½¢å¼ã¯ã€€NE30ã€€SW15ã€€Nã€€Eã€€Sã€€Wã€€SE30ã€€ãªã©ã€‚
+ã€€æ•°å€¤ã¯0ã‹ã‚‰90ã¾ã§ã€‚
+ãƒ»ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ãƒ¼ã®æ•´å‚™
 
-00/11/20 H
-E‰æ–Ê‚Ì”wŒi‚ð”’‚©•‚©‘I‘ð‚Å‚«‚é‚æ‚¤‚É‚µ‚½B
-@’…F–@‚Ì”wŒiF”½“]‚ðŽg—p‚Ì‚±‚Æ
+00/11/20é ƒï¼Ÿ
+ãƒ»ç”»é¢ã®èƒŒæ™¯ã‚’ç™½ã‹é»’ã‹é¸æŠžã§ãã‚‹ã‚ˆã†ã«ã—ãŸã€‚
+ã€€ç€è‰²æ³•ã®èƒŒæ™¯è‰²åè»¢ã‚’ä½¿ç”¨ã®ã“ã¨
 
-00/11/Žn‚ß H
-EŠîüƒf[ƒ^‚ÌƒRƒƒ“ƒg‚É“ú–{Œê‚ªŽg‚¦‚é‚æ‚¤‚É‚µ‚½B
+00/11/å§‹ã‚é ƒï¼Ÿ
+ãƒ»åŸºç·šãƒ‡ãƒ¼ã‚¿ã®ã‚³ãƒ¡ãƒ³ãƒˆã«æ—¥æœ¬èªžãŒä½¿ãˆã‚‹ã‚ˆã†ã«ã—ãŸã€‚
+
